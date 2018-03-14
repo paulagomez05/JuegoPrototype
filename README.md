@@ -1,1 +1,5 @@
 # JuegoPrototype
+#### Ejercicio de implementación de prototype y los patrones creacionales relacionados
+# Integrantes
+##### Jorge Antonio Escobar Bohórquez 20152020120
+##### Paula Andrea Gomez Vargas 20152020927
