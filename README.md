@@ -4,4 +4,5 @@
 ##### Jorge Antonio Escobar Bohórquez 20152020120
 ##### Paula Andrea Gomez Vargas 20152020927
 ##### Ruth Hurtado Pachon 
+![diagrama](https://github.com/paulagomez05/JuegoPrototype/blob/master/juego.png)
 
